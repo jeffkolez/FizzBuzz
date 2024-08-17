@@ -1,6 +1,6 @@
 # FizzBuzz
 
-There are thousands of FizzBuzz solutions. Here's one of mine.
+There are thousands of FizzBuzz solutions. Here's one for PHP.
 
 [The gist](https://blog.codinghorror.com/why-cant-programmers-program/): 
 
